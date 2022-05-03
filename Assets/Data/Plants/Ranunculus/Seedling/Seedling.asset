@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3e1af01fd493e4499f19dc8e36f011, type: 3}
+  m_Name: Seedling
+  m_EditorClassIdentifier: 
+  CameraPos: 1
+  Requirements:
+    SoilDepth: -2
+    SoilType: -2
+    WaterLevel: 1
+    SunExposure: 1
+    Fertiliser: 0
+    Pollinator: -2
+    DispersalMechanism: -2
+  PlantPrefab: {fileID: 4483037809882622734, guid: 1ab47889672e34d44ad06a1accd8804c, type: 3}
+  HelpSteps:
+  - {fileID: 11400000, guid: 0c25c323b5b9082419bcf19e60bd9105, type: 2}
+  - {fileID: 11400000, guid: a66dc1a3b277d274c93645df4163c032, type: 2}
+  - {fileID: 11400000, guid: 6e989a6703649f74faa024b7785105e5, type: 2}
+  - {fileID: 11400000, guid: c5acfbe29e42f2c48bdc1aa1a2939361, type: 2}
+  FailCount: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa39cfbde55d7ed41b31b39ada66499d, type: 3}
+  m_Name: BanksiaPlantInfo
+  m_EditorClassIdentifier: 
+  Name: BanksiaPlantInfo
+  PlantStages:
+  - {fileID: 11400000, guid: 499d4ed9370f05f4582a338b1b7244bf, type: 2}
+  - {fileID: 11400000, guid: 83f9313c8c1fcf2469d4891e745037fc, type: 2}
+  - {fileID: 11400000, guid: 7ad39c113290005449d338839ad14486, type: 2}
+  - {fileID: 11400000, guid: 85594036537a91e4289f87bac2e82d25, type: 2}
+  MinigameSceneName: BanksiaChallenge

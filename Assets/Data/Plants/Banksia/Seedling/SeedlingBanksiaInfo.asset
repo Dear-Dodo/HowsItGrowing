@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3e1af01fd493e4499f19dc8e36f011, type: 3}
+  m_Name: SeedlingBanksiaInfo
+  m_EditorClassIdentifier: 
+  CameraPos: 1
+  IsCheckConditionsVisible: 1
+  Requirements:
+    SoilDepth: -2
+    SoilType: -2
+    WaterLevel: 0
+    SunExposure: 2
+    Fertiliser: 1
+    Pollinator: -2
+    DispersalMechanism: -2
+  PlantPrefab: {fileID: 6360414575333194189, guid: 9dcd7d8c784b9934d9dbe58c1282503e, type: 3}
+  IsFailDialogueOverridden: 0
+  FailDialogue:
+    DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: 
+    Emotion: 0
+  HelpSteps:
+  - {fileID: 11400000, guid: 8892ee80788395744ba461220db4f0b2, type: 2}
+  - {fileID: 11400000, guid: 145fc89ad1b8d4d4784c821db70e5a6b, type: 2}
+  - {fileID: 11400000, guid: e66bbcc643d18dc4a93b37c17fde5ced, type: 2}
+  - {fileID: 11400000, guid: 758aa412e2b57c54289b762cf807889b, type: 2}
+  FailCount: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/MainMenu.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/PlantScene_v3.unity
+    guid: ee683d614872f554baebdcab2ca0d8ef
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/GravityChallenge.unity
+    guid: 3da6af6fd814afe48b2d1ddc6eebe321
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/BanksiaChallenge.unity
+    guid: eb8d195a4dfe7fb4fb2031f7d3ac30ec
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/WaratahChallenge.unity
+    guid: 8d51495f37709a340851b736129360f5
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: c2368dc74d14f454ea3449e992eb6310, type: 2}

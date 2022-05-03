@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Foldout text="Locked Variables" name="LockedVariables" style="padding-bottom: 5px;">
+        <Style src="HelpStep.uss" />
+        <ui:VisualElement name="LockedVariableList" />
+        <ui:VisualElement style="height: 25px; margin-right: 5px;">
+            <ui:Button text="-" display-tooltip-when-elided="True" name="RemoveVar" style="top: 0; width: 25px; height: 25px; position: absolute; right: 35px;" />
+            <ui:Button text="+" display-tooltip-when-elided="True" name="AddVar" style="top: 0; right: 0; max-width: 25px; width: 25px; height: 25px; position: absolute;" />
+        </ui:VisualElement>
+    </ui:Foldout>
+</ui:UXML>

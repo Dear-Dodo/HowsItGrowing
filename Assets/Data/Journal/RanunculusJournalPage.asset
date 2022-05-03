@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0da48c1aec314045a686c4d90fa735e, type: 3}
+  m_Name: RanunculusJournalPage
+  m_EditorClassIdentifier: 
+  Info: {fileID: 11400000, guid: cfcc6b2ba6b6edf4b8c0425ff9c4d446, type: 2}
+  ScientificName:
+    Text: Ranunculus dissectifolius
+    Bold: 0
+    Italic: 0
+  CommonName:
+    Text: Feather Buttercup
+    Bold: 0
+    Italic: 0
+  FieldNotes: "- Appears to prefer growing in <hl>mossy soils</hl>\n- Grows in cold
+    and <hl>wet</hl> environments (alpine)\n- Grows in boggy areas, <hl>lots of flies</hl>\n-
+    Small shrub, small yellow flowers \n- Needed for lifecycle: period of cold and
+    wet, for seed to grow"
+  FieldNotes_Short: '- Grows in marshy, alpine ares
+
+    - Found growing in moss
+
+    -
+    Grows in boggy areas, lots of flies'
+  Where:
+    Text: Alpine areas of Australia
+    Bold: 0
+    Italic: 0
+  Size:
+    Text: 25 centimetres high
+    Bold: 0
+    Italic: 0
+  Soil:
+    Text: Wet, often found near streams and growing in sphagnum bogs
+    Bold: 0
+    Italic: 0
+  FloweringTime:
+    Text: Summer
+    Bold: 0
+    Italic: 0
+  WhoItAttracts:
+    Text: Insects
+    Bold: 0
+    Italic: 0
+  MainPollinator:
+    Text: Insects, mainly flies and thrips
+    Bold: 0
+    Italic: 0
+  ExtraInformation:
+    Text: "<i> Cold Stratification is important in the lifecycle of the Ranunculus
+      dissectifolius\r </i>\nThe seeds of this plant won\u2019t germinate until they
+      have experienced a period of cold and wet conditions in the soil underneath
+      the snow before it germinates in the spring. \r\n\r\n<i> Why cold stratification?
+      \r</i>\nIf seeds sprout before winter they will go through a cold winter as
+      a tiny seedling, which is a harsh environment for a seedling in an alpine area.
+      \r\n"
+    Bold: 0
+    Italic: 0
+  ScientificImage: {fileID: 21300000, guid: ccb58165a1b5ba1498623e9cc6517b07, type: 3}
+  InGameImage: {fileID: 21300000, guid: 53fbdd00403fa7140ab3576faca5776d, type: 3}
+  GardenMap: {fileID: 21300000, guid: ceaaa01a6c6b1054aadf815c84acc67b, type: 3}
+  JournalTabColour: {r: 1, g: 0.4575472, b: 0.66688955, a: 1}
+  Score: 0
+  ScorePlayerPreferencesName: RanunculusScore
+  JournalLink: Ranunculus

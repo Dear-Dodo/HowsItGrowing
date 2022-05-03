@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0da48c1aec314045a686c4d90fa735e, type: 3}
+  m_Name: Test 3
+  m_EditorClassIdentifier: 
+  NextPage: {fileID: 0}
+  PreviousPage: {fileID: 11400000, guid: 29dc466b284a15545845cf0497eca12c, type: 2}
+  ScientificName: Apricot-itimsu (latin somewhere)
+  RegularName: Apricot
+  Description: 
+  ScientificImage: {fileID: 21300000, guid: bb40c885b19e70f448f29b47d3974df1, type: 3}
+  InGameImage: {fileID: 21300000, guid: 3fdd99aea4b917b44a1839e090487281, type: 3}
+  GardenMap: {fileID: 21300000, guid: 4ef877d0344009149857d027de0749de, type: 3}
+  Score: 29
+  Locked: 0

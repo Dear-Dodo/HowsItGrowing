@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib MODEL_ThemedaTriandra_1.mtl
+g default
+v -16.761206 0.034439 -0.000000
+v 17.046755 0.034439 -0.000000
+v -16.761206 64.864609 -0.000000
+v 17.046755 64.864609 -0.000000
+vt 0.504319 0.021598
+vt 0.731715 0.021634
+vt 0.504250 0.457654
+vt 0.731647 0.457689
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+s off
+g rootPlain_2
+usemtl initialShadingGroup
+f 1/1/1 2/2/2 4/4/3 3/3/4

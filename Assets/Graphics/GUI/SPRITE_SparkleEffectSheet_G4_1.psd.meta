@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: 886fe4ff64c458346b8400bee8e9baf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4007330752173651678
+    second: SPRITE_SparkleEffectSheet_G4_1_0
+  - first:
+      213: -5559467549444333905
+    second: SPRITE_SparkleEffectSheet_G4_1_1
+  - first:
+      213: 8986574479895199109
+    second: SPRITE_SparkleEffectSheet_G4_1_2
+  - first:
+      213: 4866122398969005236
+    second: SPRITE_SparkleEffectSheet_G4_1_3
+  - first:
+      213: -3203267463177599885
+    second: SPRITE_SparkleEffectSheet_G4_1_4
+  - first:
+      213: -8256202412501223781
+    second: SPRITE_SparkleEffectSheet_G4_1_5
+  - first:
+      213: -5933699087934972541
+    second: SPRITE_SparkleEffectSheet_G4_1_6
+  - first:
+      213: -6456236923927392683
+    second: SPRITE_SparkleEffectSheet_G4_1_7
+  - first:
+      213: 6107934310071254694
+    second: SPRITE_SparkleEffectSheet_G4_1_8
+  - first:
+      213: 3143462276285689563
+    second: SPRITE_SparkleEffectSheet_G4_1_9
+  - first:
+      213: -5583804705762578153
+    second: SPRITE_SparkleEffectSheet_G4_1_10
+  - first:
+      213: 3290267442542176813
+    second: SPRITE_SparkleEffectSheet_G4_1_11
+  - first:
+      213: -6320724983629355304
+    second: SPRITE_SparkleEffectSheet_G4_1_12
+  - first:
+      213: 4637195793886565517
+    second: SPRITE_SparkleEffectSheet_G4_1_13
+  - first:
+      213: -9070787003761410156
+    second: SPRITE_SparkleEffectSheet_G4_1_14
+  - first:
+      213: -6332553889382017469
+    second: SPRITE_SparkleEffectSheet_G4_1_15
+  - first:
+      213: 2443452289743870060
+    second: SPRITE_SparkleEffectSheet_G4_1_16
+  - first:
+      213: -5555524072182616500
+    second: SPRITE_SparkleEffectSheet_G4_1_17
+  - first:
+      213: 604438927925216060
+    second: SPRITE_SparkleEffectSheet_G4_1_18
+  - first:
+      213: 3921313139033652179
+    second: SPRITE_SparkleEffectSheet_G4_1_19
+  - first:
+      213: 5694572066862686136
+    second: SPRITE_SparkleEffectSheet_G4_1_20
+  - first:
+      213: 4746163656064075815
+    second: SPRITE_SparkleEffectSheet_G4_1_21
+  - first:
+      213: -5100235353421350504
+    second: SPRITE_SparkleEffectSheet_G4_1_22
+  - first:
+      213: 3625371931061479251
+    second: SPRITE_SparkleEffectSheet_G4_1_23
+  - first:
+      213: 4433398604610042182
+    second: SPRITE_SparkleEffectSheet_G4_1_24
+  - first:
+      213: -2182681433478756922
+    second: SPRITE_SparkleEffectSheet_G4_1_25
+  - first:
+      213: -3132250302371083238
+    second: SPRITE_SparkleEffectSheet_G4_1_26
+  - first:
+      213: -2802671044042913425
+    second: SPRITE_SparkleEffectSheet_G4_1_27
+  - first:
+      213: -4968406118688139058
+    second: SPRITE_SparkleEffectSheet_G4_1_28
+  - first:
+      213: 7341596551819177876
+    second: SPRITE_SparkleEffectSheet_G4_1_29
+  - first:
+      213: 3538455873770893969
+    second: SPRITE_SparkleEffectSheet_G4_1_30
+  - first:
+      213: -3806352185698981876
+    second: SPRITE_SparkleEffectSheet_G4_1_31
+  - first:
+      213: -2090190855256044532
+    second: SPRITE_SparkleEffectSheet_G4_1_32
+  - first:
+      213: -2432634843678028907
+    second: SPRITE_SparkleEffectSheet_G4_1_33
+  - first:
+      213: 877273340121405586
+    second: SPRITE_SparkleEffectSheet_G4_1_34
+  - first:
+      213: -2742136942205277807
+    second: SPRITE_SparkleEffectSheet_G4_1_35
+  - first:
+      213: 6795371316761765540
+    second: SPRITE_SparkleEffectSheet_G4_1_36
+  - first:
+      213: 4887660825065135951
+    second: SPRITE_SparkleEffectSheet_G4_1_37
+  - first:
+      213: -8029728367528574035
+    second: SPRITE_SparkleEffectSheet_G4_1_38
+  - first:
+      213: -5938695903584704767
+    second: SPRITE_SparkleEffectSheet_G4_1_39
+  - first:
+      213: 3838802478612430694
+    second: SPRITE_SparkleEffectSheet_G4_1_40
+  - first:
+      213: -4853344922295610341
+    second: SPRITE_SparkleEffectSheet_G4_1_41
+  - first:
+      213: 9027976758625412743
+    second: SPRITE_SparkleEffectSheet_G4_1_42
+  - first:
+      213: 7635405141557544486
+    second: SPRITE_SparkleEffectSheet_G4_1_43
+  - first:
+      213: 551803557849980813
+    second: SPRITE_SparkleEffectSheet_G4_1_44
+  - first:
+      213: -5105572809312579760
+    second: SPRITE_SparkleEffectSheet_G4_1_45
+  - first:
+      213: -2599699547204786913
+    second: SPRITE_SparkleEffectSheet_G4_1_46
+  - first:
+      213: 7295831668306398832
+    second: SPRITE_SparkleEffectSheet_G4_1_47
+  - first:
+      213: 2022096598405170785
+    second: SPRITE_SparkleEffectSheet_G4_1_48
+  - first:
+      213: -6779084670860930635
+    second: SPRITE_SparkleEffectSheet_G4_1_49
+  - first:
+      213: -4397588683348570262
+    second: SPRITE_SparkleEffectSheet_G4_1_50
+  - first:
+      213: -4121345155432974894
+    second: SPRITE_SparkleEffectSheet_G4_1_51
+  - first:
+      213: -4091992859838916483
+    second: SPRITE_SparkleEffectSheet_G4_1_52
+  - first:
+      213: 4928110164392872065
+    second: SPRITE_SparkleEffectSheet_G4_1_53
+  - first:
+      213: -8432892663860285911
+    second: SPRITE_SparkleEffectSheet_G4_1_54
+  - first:
+      213: 5903924606935707286
+    second: SPRITE_SparkleEffectSheet_G4_1_55
+  - first:
+      213: -4026148098213832809
+    second: SPRITE_SparkleEffectSheet_G4_1_56
+  - first:
+      213: -3618157317832894021
+    second: SPRITE_SparkleEffectSheet_G4_1_57
+  - first:
+      213: -7888644175282412458
+    second: SPRITE_SparkleEffectSheet_G4_1_58
+  - first:
+      213: -1430196814422100113
+    second: SPRITE_SparkleEffectSheet_G4_1_59
+  - first:
+      213: -593343260079871858
+    second: SPRITE_SparkleEffectSheet_G4_1_60
+  - first:
+      213: -1312092616947155229
+    second: SPRITE_SparkleEffectSheet_G4_1_61
+  - first:
+      213: 9116965594216833355
+    second: SPRITE_SparkleEffectSheet_G4_1_62
+  - first:
+      213: -1714993381776649063
+    second: SPRITE_SparkleEffectSheet_G4_1_63
+  - first:
+      213: 2150324014707342116
+    second: SPRITE_SparkleEffectSheet_G4_1_64
+  - first:
+      213: 8931408893277497643
+    second: SPRITE_SparkleEffectSheet_G4_1_65
+  - first:
+      213: -8511932735925400021
+    second: SPRITE_SparkleEffectSheet_G4_1_66
+  - first:
+      213: 5948844136936170184
+    second: SPRITE_SparkleEffectSheet_G4_1_67
+  - first:
+      213: 7898327746229842768
+    second: SPRITE_SparkleEffectSheet_G4_1_68
+  - first:
+      213: 2245088266313114743
+    second: SPRITE_SparkleEffectSheet_G4_1_69
+  - first:
+      213: 7628727961127478233
+    second: SPRITE_SparkleEffectSheet_G4_1_70
+  - first:
+      213: -1797775108167278119
+    second: SPRITE_SparkleEffectSheet_G4_1_71
+  - first:
+      213: -6141793305375091423
+    second: SPRITE_SparkleEffectSheet_G4_1_72
+  - first:
+      213: 5449820223674881595
+    second: SPRITE_SparkleEffectSheet_G4_1_73
+  - first:
+      213: 7599106394030209779
+    second: SPRITE_SparkleEffectSheet_G4_1_74
+  - first:
+      213: 3444432389575951571
+    second: SPRITE_SparkleEffectSheet_G4_1_75
+  - first:
+      213: -8592013785630734501
+    second: SPRITE_SparkleEffectSheet_G4_1_76
+  - first:
+      213: 2446017558119475529
+    second: SPRITE_SparkleEffectSheet_G4_1_77
+  - first:
+      213: -7680498345379359270
+    second: SPRITE_SparkleEffectSheet_G4_1_78
+  - first:
+      213: -7161580888168200205
+    second: SPRITE_SparkleEffectSheet_G4_1_79
+  - first:
+      213: -737723994812706474
+    second: SPRITE_SparkleEffectSheet_G4_1_80
+  - first:
+      213: -4899044774956566370
+    second: SPRITE_SparkleEffectSheet_G4_1_81
+  - first:
+      213: -6821527460296473149
+    second: SPRITE_SparkleEffectSheet_G4_1_82
+  - first:
+      213: -5218895718849639693
+    second: SPRITE_SparkleEffectSheet_G4_1_83
+  - first:
+      213: 6912239818681249988
+    second: SPRITE_SparkleEffectSheet_G4_1_84
+  - first:
+      213: -1121215027473744787
+    second: SPRITE_SparkleEffectSheet_G4_1_85
+  - first:
+      213: -1562534513968788810
+    second: SPRITE_SparkleEffectSheet_G4_1_86
+  - first:
+      213: -8462194492443188907
+    second: SPRITE_SparkleEffectSheet_G4_1_87
+  - first:
+      213: 8824737240044565912
+    second: SPRITE_SparkleEffectSheet_G4_1_88
+  - first:
+      213: -6127153067519298896
+    second: SPRITE_SparkleEffectSheet_G4_1_89
+  - first:
+      213: -4589608470144892231
+    second: SPRITE_SparkleEffectSheet_G4_1_90
+  - first:
+      213: -6907604896387319957
+    second: SPRITE_SparkleEffectSheet_G4_1_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 708
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c033a9e91368c0800000000000000
+      internalID: -4007330752173651678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 717
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae1f0718bdc8d2b0800000000000000
+      internalID: -5559467549444333905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 714
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7eb560e9b6bc70800000000000000
+      internalID: 8986574479895199109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 710
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48e104a80f78340800000000000000
+      internalID: 4866122398969005236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 692
+        width: 137
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748bb0c635bb83d0800000000000000
+      internalID: -3203267463177599885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 707
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96342926a31c6d80800000000000000
+      internalID: -8256202412501223781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 721
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d939b1e1447ada0800000000000000
+      internalID: -5933699087934972541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 527
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e0c8b69b6d666a0800000000000000
+      internalID: -6456236923927392683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 521
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb73fc4edb3c450800000000000000
+      internalID: 6107934310071254694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 525
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde69d61942df9b20800000000000000
+      internalID: 3143462276285689563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 504
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711fdd154375282b0800000000000000
+      internalID: -5583804705762578153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 497
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a62c07ec069ad20800000000000000
+      internalID: 3290267442542176813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 516
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e5d3bd164848a0800000000000000
+      internalID: -6320724983629355304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 536
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845b807101aa5040800000000000000
+      internalID: 4637195793886565517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 287
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f329777471e1280800000000000000
+      internalID: -9070787003761410156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 286
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346dd56f9cf3e18a0800000000000000
+      internalID: -6332553889382017469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 259
+        width: 105
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c685ccb59e2e8e120800000000000000
+      internalID: 2443452289743870060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 274
+        width: 146
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e6c607a40d6e2b0800000000000000
+      internalID: -5555524072182616500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 304
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338663a006636800800000000000000
+      internalID: 604438927925216060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 319
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3c21268d4b6630800000000000000
+      internalID: 3921313139033652179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 324
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf5639af1f270f40800000000000000
+      internalID: 5694572066862686136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_SparkleEffectSheet_G4_1_21
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 345
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728819de2b2cdd140800000000000000
+      internalID: 4746163656064075815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 946f1573907ceb146a9690ccb2c3b492
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

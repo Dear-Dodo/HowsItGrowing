@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a2993ba96acc943bbc960336f0242e, type: 3}
+  m_Name: HelpStep0
+  m_EditorClassIdentifier: 
+  IsFailDialogueOverridden: 0
+  FailDialogue:
+    DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: 
+    Emotion: 0
+  HintDialogue:
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: "Wow, look! Our plant was pollinated! It\u2019s grown fruit with seeds
+      inside. \r"
+    Emotion: 5
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: Birds love this flower! They use their beak to get right into the long
+      flower tubes to drink nectar. While they do this, they get pollen on their
+      feathers!
+    Emotion: 1
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: ' When the birds fly to another flower, the pollen is transferred,
+      and the flower is pollinated!'
+    Emotion: 0
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: "Let\u2019s move those seeds and start the lifecycle again! Choose
+      the best option to help the seeds get to the ground."
+    Emotion: 4
+  LockedVariables:
+  - TypeName: Plant.SoilType

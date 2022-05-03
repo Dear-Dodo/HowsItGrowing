@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!95 &4315444033209546038
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6797617203615725489}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1823f54eae4403542818eaccd2f710d7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &7799431288068276333
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7455416448707517143}
+  - component: {fileID: 605951657735128459}
+  m_Layer: 0
+  m_Name: ranunculusGrownFlowers_G4_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7455416448707517143
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7799431288068276333}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
+  m_Children:
+  - {fileID: 6133388637744213259}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &605951657735128459
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7799431288068276333}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1823f54eae4403542818eaccd2f710d7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &5950544857185667808
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7455416448707517143}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029504295
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 100.27
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 100.27
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 100.27
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9
+      objectReference: {fileID: 0}
+    - target: {fileID: -4940190870292976812, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 106f9d2e52f8dc1478d9de67322e0fab, type: 2}
+    - target: {fileID: 919132149155446097, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_Name
+      value: MODEL_ranunculusGrownFlowers_G4_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3745110569789052240, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af6db2ae4ab46dc42b008d929003e87f, type: 2}
+    - target: {fileID: 5666573098840833339, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 106f9d2e52f8dc1478d9de67322e0fab, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+--- !u!1 &6797617203615725489 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+  m_PrefabInstance: {fileID: 5950544857185667808}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6133388637744213259 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ff35d605c3d6e694697af90ed087344d, type: 3}
+  m_PrefabInstance: {fileID: 5950544857185667808}
+  m_PrefabAsset: {fileID: 0}

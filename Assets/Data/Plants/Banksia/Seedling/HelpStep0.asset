@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a2993ba96acc943bbc960336f0242e, type: 3}
+  m_Name: HelpStep0
+  m_EditorClassIdentifier: 
+  IsFailDialogueOverridden: 0
+  FailDialogue:
+    DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: 
+    Emotion: 0
+  HintDialogue:
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: Wow! Did you see it sprout? Great job!
+    Emotion: 5
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: 'We need to change the conditions now that our seed is a seedling! '
+    Emotion: 0
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: "Plants need food. Click on the fertiliser bags to add it to the soil\u2026 "
+    Emotion: 1
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: "Click the handle on the shadecloth to change the sun amount between
+      partial, shade and full sun\u2026"
+    Emotion: 4
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: And you remember how to change water levels and ask for a hint!
+    Emotion: 0
+  LockedVariables:
+  - TypeName: Plant.WaterLevel

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bdbf4c1a5707c547b54298f75dfb37f, type: 3}
+  m_Name: MainSulight
+  m_EditorClassIdentifier: 
+  m_audioClip: {fileID: 8300000, guid: 6d9ada68246bab1489c59e8d373621cd, type: 3}
+  m_audioMixerGroup: {fileID: 4113199203974532964, guid: dc5ac1f296eef2444824d66951c45855, type: 2}
+  m_mute: 0
+  m_playOnAwake: 0
+  m_loop: 0
+  m_priority: 128
+  m_volume: 0.503
+  m_pitch: 1

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3e1af01fd493e4499f19dc8e36f011, type: 3}
+  m_Name: WaratahSeedInfo
+  m_EditorClassIdentifier: 
+  CameraPos: 1
+  IsCheckConditionsVisible: 1
+  Requirements:
+    SoilDepth: 1
+    SoilType: 0
+    WaterLevel: 1
+    SunExposure: -2
+    Fertiliser: -2
+    Pollinator: -2
+    DispersalMechanism: -2
+  PlantPrefab: {fileID: 5384936905993355762, guid: fdbe45d1410fa0944ac64aa60c7dad69, type: 3}
+  IsFailDialogueOverridden: 0
+  FailDialogue:
+    DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: 
+    Emotion: 0
+  HelpSteps:
+  - {fileID: 11400000, guid: 35770ac96d30a0548a5db6e73da03240, type: 2}
+  - {fileID: 11400000, guid: b2483b01f9bbbed428223175c55c2a8a, type: 2}
+  - {fileID: 11400000, guid: 5700b4e95423e8d49b8947cd2c82ef85, type: 2}
+  - {fileID: 11400000, guid: 133b6bf04b2c3c546bcc0b160f516c5b, type: 2}
+  FailCount: 0

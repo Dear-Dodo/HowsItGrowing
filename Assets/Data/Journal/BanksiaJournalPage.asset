@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0da48c1aec314045a686c4d90fa735e, type: 3}
+  m_Name: BanksiaJournalPage
+  m_EditorClassIdentifier: 
+  Info: {fileID: 11400000, guid: 766a28a6dedf1e1469d275a40f1e688d, type: 2}
+  ScientificName:
+    Text: Banksia coccinea
+    Bold: 0
+    Italic: 0
+  CommonName:
+    Text: Scarlet Banksia, Albany Banksia
+    Bold: 0
+    Italic: 0
+  FieldNotes: '- Grows in <hl>well drained, acidic, sandy soils</hl>
+
+    - Grows
+    in sunny, <hl>dry</hl> areas
+
+    - Has lots of nectar and long flower tubes
+    that <hl>birds</hl> love
+
+    - Large shrub, bright red flowers
+
+    - Needed
+    for lifecycle: heat to open seed pods'
+  FieldNotes_Short: '- Seeds need well draining soils
+
+    - Grows in warm conditions
+
+    -
+    Nectar producing flowers'
+  Where:
+    Text: Western Australia
+    Bold: 0
+    Italic: 0
+  Size:
+    Text: 4 to 5 metres tall, sometimes reaching 8 meters tall
+    Bold: 0
+    Italic: 0
+  Soil:
+    Text: sandy and acidic
+    Bold: 0
+    Italic: 0
+  FloweringTime:
+    Text: June to January
+    Bold: 0
+    Italic: 0
+  WhoItAttracts:
+    Text: Birds, insects, and honey possums
+    Bold: 0
+    Italic: 0
+  MainPollinator:
+    Text: Nectar loving birds
+    Bold: 0
+    Italic: 0
+  ExtraInformation:
+    Text: "<i>Fire is important in the lifecycle of some Banksia species! </i>\r<br>Seeds
+      are stored in the Banksia seed pods until they are opened by a fire. The seed
+      then falls into the soil.\r"
+    Bold: 0
+    Italic: 0
+  ScientificImage: {fileID: 21300000, guid: 3cf16187c3b585b489276e98bafd1f6e, type: 3}
+  InGameImage: {fileID: 21300000, guid: 21df63be465c682499155f3459755180, type: 3}
+  GardenMap: {fileID: 21300000, guid: 020d4baec1083ee4cbd5f64f1a962858, type: 3}
+  JournalTabColour: {r: 1, g: 0.69360197, b: 0.11792451, a: 1}
+  Score: 0
+  ScorePlayerPreferencesName: BanksiaScore
+  JournalLink: Banksia

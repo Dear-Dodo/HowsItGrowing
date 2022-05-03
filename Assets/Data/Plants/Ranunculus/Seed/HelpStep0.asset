@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a2993ba96acc943bbc960336f0242e, type: 3}
+  m_Name: HelpStep0
+  m_EditorClassIdentifier: 
+  IsFailDialogueOverridden: 0
+  FailDialogue:
+    DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: 
+    Emotion: 0
+  HintDialogue:
+  - DialogueClip: {fileID: 8300000, guid: 4957f078b1a706a498309583b43d7254, type: 3}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: "Before planting the Feather Buttercup we put it through \u2018cold
+      stratification\u2019"
+    Emotion: 5
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: "\u2018Cold stratification\u2019 is when seeds need to go through a
+      cold and wet time before they can germinate. In the wild, this would be a cold,
+      wet winter."
+    Emotion: 1
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: Click on the objects to change the Feather Buttercups conditions for
+      optimal growing!
+    Emotion: 4
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: Click on the soil bags to change the soil type...
+    Emotion: 0
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: Click on the water tank to change the watering amount...
+    Emotion: 1
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: Click on the shovel to plant the seed...
+    Emotion: 0
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: When you think you've got the conditions right, click on the 'check
+      conditions' button...
+    Emotion: 0
+  - DialogueClip: {fileID: 0}
+    DialogueName: 
+    SyncWithAudio: 0
+    CharactersPerSecond: 25
+    Dialogue: If you need any help, click on the question mark button for a hint!
+    Emotion: 0
+  LockedVariables:
+  - TypeName: Plant.SoilDepth

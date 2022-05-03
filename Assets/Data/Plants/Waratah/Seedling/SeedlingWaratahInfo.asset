@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3e1af01fd493e4499f19dc8e36f011, type: 3}
+  m_Name: SeedlingWaratahInfo
+  m_EditorClassIdentifier: 
+  CameraPos: 1
+  IsCheckConditionsVisible: 1
+  Requirements:
+    SoilDepth: -2
+    SoilType: -2
+    WaterLevel: 0
+    SunExposure: 1
+    Fertiliser: 0
+    Pollinator: -2
+    DispersalMechanism: -2
+  PlantPrefab: {fileID: 3644189826142662873, guid: ca3f43c320a72f74aadc5c989a5909ff, type: 3}
+  HelpSteps:
+  - {fileID: 11400000, guid: c1564dd603d2adc4793005f3461339ae, type: 2}
+  - {fileID: 11400000, guid: ad6fb5127a870c64794d21fa1be83ec4, type: 2}
+  - {fileID: 11400000, guid: 9e3ae0289ca780a41b8f8fc38509bbdb, type: 2}
+  - {fileID: 11400000, guid: abcd29a030b3c3b4e9ebd0015eb5fcf2, type: 2}
+  FailCount: 0
