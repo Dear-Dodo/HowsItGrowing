@@ -11,22 +11,31 @@ Here is the dev team!
 
 ### Programming
 James Greensill - *Lead, Systems* - [Portfolio](https://www.jamesgreensill.com) | [Github](https://www.github.com/jwrmg)
+
 Ronan Richardson - *Producer, Gameplay* - [Portfolio](https://www.ronanrichardson.com)
+
 Calvin Soueid - *Systems* - [Portfolio](https://calvin.soueid.io) | [Github](https://github.com/BlackxSnow)
+
 Alex Manning - *Gameplay*
 
 ### Art
 Aislinn (Ayvee) Smith - *Lead* - [Portfolio](https://ayveesmith.com/)
+
 Lara Diego - *2D Character Design, 3D Modelling & Animation* - [Art Station](https://www.artstation.com/loudpigeon)
+
 Petra Crsipin - *Texturing, 3D Modelling and Animation*
+
 Ethan Kyte - *3D Modelling and Animation*
 
 ### Design
 Victoria Richardson - *Lead, Project Manager* - [LinkedIn](https://www.linkedin.com/in/victoria-richardson-gamedev/)
+
 Caitlin Johansson - *Sound Designer & QA* -
+
 Charlie Brazil - *Music Composer & QA* -
 
 [AIE](https://aie.edu.au/)
+
 [ANBG](https://www.anbg.gov.au/gardens/)
 
 
